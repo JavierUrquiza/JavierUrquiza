@@ -3,7 +3,7 @@
 :computer: **Ingeniero de Software (QA)**
 :pencil: **Tester & futuro Automation Engineer**
 :eyeglasses: **Geek empedernido**
-:oncoming_automobile: **Fan de los autos, dunas y 4x4**
+:oncoming_automobile: **Fan de los autos, dunas, playa y 4x4**
 :chart_with_upwards_trend: **Aprendiendo SQL, Selenium y JavaScript**
 :family: **El papá más feliz del mundo!**
 
