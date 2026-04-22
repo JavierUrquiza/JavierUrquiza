@@ -5,7 +5,7 @@
 :eyeglasses: **Geek empedernido**
 :oncoming_automobile: **Fan de los autos, dunas, playa y 4x4**
 :chart_with_upwards_trend: **Aprendiendo SQL, Selenium y JavaScript**
-:family: **El papá más feliz del mundo!**
+:family: **Me gusta pasar tiempo con mi familia!**
 
 ---
 
